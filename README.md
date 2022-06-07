@@ -1,6 +1,7 @@
 # 파워 오브 데이터베이스(책)
 
 - DATABASE DESIGN FOR MERE MORTALS : A HANDSON GUIDE TO RELATIONAL DATABASE DESIGN, 3rd Edition
+- 정리된 글(노션) : https://nickel-peacock-502.notion.site/eb9cf4b1c08f48f59e46bfe04e491df0
 
 - [x] 0. 서문 및 소개
 
