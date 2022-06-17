@@ -1,15 +1,14 @@
 # 파워 오브 데이터베이스(책)
 
 - DATABASE DESIGN FOR MERE MORTALS : A HANDSON GUIDE TO RELATIONAL DATABASE DESIGN, 3rd Edition
-- 정리된 글(노션) : https://nickel-peacock-502.notion.site/eb9cf4b1c08f48f59e46bfe04e491df0
 
 - [x] 0. 서문 및 소개
 
 ### 1부. 관계형 데이터베이스 설계 (1 ~ 51)
 
-- [ ] 1. 관계형 데이터베이스
-- [ ] 2. 설계 목적
-- [ ] 3. 전문 용어
+- [x] 1. 관계형 데이터베이스
+- [x] 2. 설계 목적
+- [x] 3. 전문 용어
 
 ### 2부. 설계 프로세스 (52 ~ 356)
 
